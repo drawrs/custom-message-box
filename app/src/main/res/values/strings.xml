@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Custom Message Box "</string>
+    <string name="btn_toast">Custom Toast</string>
+    <string name="btn_alert">Custom Alert</string>
+</resources>
